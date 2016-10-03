@@ -1,0 +1,7 @@
+6
+To ensure given an input of 0, we receive default output of 1
+util.c
+uint64_t round_to_power_of_2(uint64_t u64)
+0,,
+1
+3
